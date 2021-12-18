@@ -1,0 +1,18 @@
+*vwqc.txt* Qualitative Coding for Text in Vim using VimWiki
+		          __     ____        _____   ____ 								  	
+     		      \ \   / /\ \      / / _ \ / ___|
+	     	       \ \ / /  \ \ /\ / / | | | |    
+		            \ V /    \ V  V /| |_| | |___ 
+		             \_/      \_/\_/  \__\_\\____|
+										
+				        	Version: 1.0					
+
+==============================================================================
+CONTENTS                                                                *vwqc*
+
+    1. Intro                              |vwqc-intro|
+
+==============================================================================
+1. Intro                                                          *vwqc-intro*
+
+This is a stub introduction to VWCQ.
